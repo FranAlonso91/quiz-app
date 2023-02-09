@@ -33,8 +33,8 @@ const Preguntas = [
     opciones: [
       { textoRespuesta: "Walter Samuel", isCorrect: false },
       { textoRespuesta: "Arbeloa", isCorrect: false },
-      { textoRespuesta: "Fernando Hierro", isCorrect: true },
-      { textoRespuesta: "Sergio Ramos", isCorrect: false },
+      { textoRespuesta: "Fernando Hierro", isCorrect: false },
+      { textoRespuesta: "Sergio Ramos", isCorrect: true },
     ],
   },
 ];
